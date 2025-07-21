@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: https://www.ens-lyon.fr/PHYSIQUE
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: / 
+subtitle: <a href='https://www.ens-lyon.fr/PHYSIQUE'>Physics Lab</a>, ENS de Lyon and CNRS, UMR 5672
 
 profile:
   align: right
