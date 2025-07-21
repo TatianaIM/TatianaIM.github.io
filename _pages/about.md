@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /https://www.ens-lyon.fr/PHYSIQUE
+permalink: https://www.ens-lyon.fr/PHYSIQUE
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
