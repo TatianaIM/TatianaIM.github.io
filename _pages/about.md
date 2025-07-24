@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Site Monod, Office M7-1H08r</p>
+    <p>Site Monod, Office M7-1H08</p>
     <p>46, Allée d'Italie, 69007</p>
     <p>Lyon, France</p>
 
