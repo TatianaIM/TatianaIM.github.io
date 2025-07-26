@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: / 
-subtitle: <a href='https://www.ens-lyon.fr/PHYSIQUE'>Physics Lab</a>, ENS de Lyon and CNRS, UMR 5672
+subtitle: <a href='https://www.ens-lyon.fr/PHYSIQUE'>Physics Lab</a>, ENS de Lyon and <a href='https://www.cnrs.fr/en'>CNRS</a>, UMR 5672
 
 profile:
   align: right
