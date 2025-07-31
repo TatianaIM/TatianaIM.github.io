@@ -1,27 +1,36 @@
-- title: Academic Background
-  type: time_table
+- title: Academic Positions
+  type: academic_experience
   contents:
-    - title: CNRS researcher (Chargée de Recherche)
-      institution: ENS Lyon
-      year: 2024-NOW
-    - title: PostDoc 3
-      institution: Institut Pasteur, CNRS, Paris, France
-      year: 2023-2024
-    - title: PostDoc 2
-      institution: Institut Laue-Langevin, Grenoble, France
-      year: 2020-2023
-      description: independent postdocotral fellow in the Theory Group
-    - title: PostDoc 1
-      institution: LIPhy, Université Grenoble Alpes, Grenoble, France
-      year: 2019 - 2020
-      description: in collaboration with L’Oréal Research and Innovation
-    - title: PhD in Physcis 
-      institution: Johannes Gutenberg University, Mainz, Germany
-      year: Mar 2016-2019
-      description: PhD advisor - Arash Nikoubashman
-    - title: Specialist in Physcis 
-      institution: Lomonosov Moscow State University, Moscow, Russia
-      year: 2010-2016
+    - position: CNRS researcher (Chargée de Recherche)
+    - organization: ENS Lyon
+    - location: Lyon, France
+    - startDate: 2024-12-01
+    - endDate: NOW
+
+# - title: Academic Positions
+#   type: time_table
+#   contents:
+#     - title: CNRS researcher (Chargée de Recherche)
+#       institution: ENS Lyon
+#       year: 2024-NOW
+#     - title: PostDoc 3
+#       institution: Institut Pasteur, CNRS, Paris, France
+#       year: 2023-2024
+#     - title: PostDoc 2
+#       institution: Institut Laue-Langevin, Grenoble, France
+#       year: 2020-2023
+#       description: independent postdocotral fellow in the Theory Group
+#     - title: PostDoc 1
+#       institution: LIPhy, Université Grenoble Alpes, Grenoble, France
+#       year: 2019 - 2020
+#       description: in collaboration with L’Oréal Research and Innovation
+#     - title: PhD in Physcis 
+#       institution: Johannes Gutenberg University, Mainz, Germany
+#       year: Mar 2016-2019
+#       description: PhD advisor - Arash Nikoubashman
+#     - title: Specialist in Physcis 
+#       institution: Lomonosov Moscow State University, Moscow, Russia
+#       year: 2010-2016
 
 # - title: Honors and Awards
 #   type: time_table
