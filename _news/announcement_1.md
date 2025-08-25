@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-03 15:59:00-0400
+date: 2024-12-01 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am happy to share that I am starting a new chapter in my scientific journey as a CNRS researcher based in the Physics Lab at ENS Lyon! :rocket:
