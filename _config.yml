@@ -270,7 +270,7 @@ scholar:
   last_name: [Morozova]
   first_name: [Tatiana, I.]
 
-  style: mla #apa
+  style: apa
   locale: en
 
   source: /_bibliography/
