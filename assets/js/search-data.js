@@ -398,18 +398,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-am-happy-to-share-that-i-am-starting-a-new-chapter-in-my-scientific-journey-as-a-cnrs-researcher-based-in-the-physics-lab-at-ens-lyon-rocket",
+          title: 'I am happy to share that I am starting a new chapter in...',
+          description: "",
+          section: "News",},{id: "news-i-am-honored-to-receive-a-starting-grant-jcjc-from-anr-to-develop-a-coarse-grained-model-that-will-advance-our-understanding-of-the-formation-and-properties-of-biomolecular-condensates-sparkles",
+          title: 'I am honored to receive a starting grant (JCJC) from ANR to develop...',
+          description: "",
+          section: "News",},{id: "news-we-are-hiring-three-year-postdoc-opportunity-in-lyon",
+          title: 'We are hiring! Three-year PostDoc opportunity in Lyon',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
