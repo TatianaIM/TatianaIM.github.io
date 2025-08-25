@@ -39,10 +39,12 @@
       year: 2010-2016
 
 - title: Fundings
-  type: list
+  type: time_table
   contents: 
-    - title: Jeunes Chercheuses et Jeunes Chercheurs (ANR) 2025
-    - title: Marie Skłodowska-Curie Action Europeen Postdoctoral Fellowships (EC) 2024
+    - title: Jeunes Chercheuses et Jeunes Chercheurs (ANR)
+      year: 2025-2029
+    - title: Marie Skłodowska-Curie Action Europeen Postdoctoral Fellowships (EC) 
+      year: 2024 (declined)
 
 # - title: Academic Interests
 #   type: nested_list
