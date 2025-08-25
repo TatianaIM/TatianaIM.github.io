@@ -711,9 +711,6 @@ footer.sticky-bottom {
     margin-bottom: 1em;
   }
 
-  // h1.bibliography {
-  //   list-style: "counter-reset:bibitem 13"
-  // }
   h2 {
     margin-bottom: 1rem;
 
@@ -732,12 +729,8 @@ footer.sticky-bottom {
 
   ol.bibliography {
     list-style: none;
-    // li:before{content: counter(bibitem) ".";
-    // li {counter-increment: bibitem -1;}
-    // list-style: decimal;
     padding: 0;
     margin-top: 0;
-
 
     li {
       margin-bottom: 1rem;
