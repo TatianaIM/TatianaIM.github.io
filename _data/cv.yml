@@ -59,7 +59,8 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Other Interests
+- title: Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Snowboarding, Tennis
+    - Snowboarding, Tennis
+    # - <u>Hobbies:</u> Snowboarding, Tennis
