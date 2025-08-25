@@ -728,10 +728,13 @@ footer.sticky-bottom {
   }
 
   ol.bibliography {
-    // list-style: none;
-    list-style: decimal;
+    list-style: none;
+    li:before{content: counter(bibitem) ".";
+    li {counter-increment: bibitem -1;}
+    // list-style: decimal;
     padding: 0;
     margin-top: 0;
+
 
     li {
       margin-bottom: 1rem;
