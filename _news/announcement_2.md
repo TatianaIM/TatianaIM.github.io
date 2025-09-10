@@ -10,7 +10,7 @@ A three-year postdoctoral position is open in my team at the Physics Lab at ENS 
 
 ---
 
-<div style="text-align: justify">The project is focused on disentangling the role of protein composition and architecture on the underlying phase behaviour. We aim to develop a temperature-sensitive coarse-grained model for proteins. Then we will look at how physico-chemical properties of the sequence affect phase separation propensity through large-scale molecular dynamics simulations. We will pay particular attention to two protein families implicated in neurodegenerative diseases. The successful candidate will join the interdisciplinary environment at the <a href="https://www.cbp.ens-lyon.fr/doku.php?id=accueil">CBPsmn</a> computational hub, working under my supervision and collaborating with colleagues from Physics and Biology Labs at ENS Lyon.
+<div style="text-align: justify">The project is focused on disentangling the role of protein composition and architecture on the underlying phase behaviour. We aim to develop a temperature-sensitive coarse-grained model for proteins. Then we will look at how physico-chemical properties of the sequence affect phase separation propensity through large-scale molecular dynamics simulations. We will pay particular attention to two protein families implicated in neurodegenerative diseases. The successful candidate will join the interdisciplinary environment at the <a href="https://www.cbp.ens-lyon.fr/doku.php?id=accueil">CBPsmn</a> computational hub, working under my supervision and collaborating with colleagues from Physics and Biology Labs at ENS Lyon.</div>
 
 We are seeking candidates with a background in computational physics, biology, or chemistry:
 <ul>
@@ -30,4 +30,3 @@ To apply, please send your CV and a brief research statement to my email address
     <li>Monthly gross salary depends on the candidate's prior postdoctoral experience and starts from 4300 euros</li>
     <li>Lyon is a charming city with a strong cultural and gastronomic heritage. Two 2 hours away from the Alps, and the Mediterranean coast. An international airport and the train station make it easy to travel within France and abroad.</li>
 </ul>
-</div>
