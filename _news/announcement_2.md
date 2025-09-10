@@ -19,5 +19,3 @@ We are seeking candidates with a background in computational physics, biology, o
     <li>Ability to work in a team (essential)</li>
     <li>Background in soft matter/polymer physics (preferable)</li>
 </ul>
-
----
