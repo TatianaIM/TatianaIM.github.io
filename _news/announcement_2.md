@@ -19,3 +19,8 @@ We are seeking candidates with a background in computational physics, biology, o
     <li>Ability to work in a team (essential)</li>
     <li>Background in soft matter/polymer physics (preferable)</li>
 </ul>
+
+To apply, please send your CV and a brief research statement to my email address show in ***about*** section. Informal inquiries via email are welcome!
+
+**Application deadline**: October 5th, 2025
+**Start date**: December 2025-March 2026
