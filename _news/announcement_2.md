@@ -1,21 +1,9 @@
 ---
 layout: post
 title: We are hiring! Three-year PostDoc opportunity in Lyon
-date: 2025-09-12 16:11:00-0400
+date: 2025-09-09 16:11:00-0400
 inline: false
 related_posts: false
 ---
+
 A three-year postdoctoral position is open in my team at the Physics Lab at ENS Lyon. The position is funded by the ANR 2025 call via the JCJC grant (DiPCaM).
-
----
-The project is focused on disentangling the role of protein composition and architecture on the underlying phase behaviour. We aim to develop a temperature-sensitive coarse-grained model for proteins. Then we will look at how physico-chemical properties of the sequence affect phase separation propensity through large-scale molecular dynamics simulations. We will pay particular attention to two protein families implicated in neurodegenerative diseases. The successful candidate will join the interdisciplinary environment at the <a href=https://www.cbp.ens-lyon.fr/doku.php?id=accueil>CBPsmn</a> computational hub, working under my supervision and collaborating with colleagues from Physics and Biology at ENS Lyon.
-
-We are seeking candidates with a background in computational physics, biology, or chemistry:
-#### Hipster list
-
-<ul>
-    <li>Experience in particle-based simulations (essential)</li>
-    <li>Experience in using software packages, e.g., GROMACS, LAMMPS, HOOMD-Blue, and cluster facilities (preferable)</li>
-    <li>Ability to work in a team (essential)</li>
-    <li>Background in soft matter/polymer physics (preferable)</li>
-</ul>

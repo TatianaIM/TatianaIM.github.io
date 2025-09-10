@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research relies on computation methods, such as molecular dynamics simulations often done in collaboration with experiments. Depending on a question I wish to address, I either use an atomistic or a coarse-grained description of the system. Below, you find an overview of my activities.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
