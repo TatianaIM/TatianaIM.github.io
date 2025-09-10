@@ -22,5 +22,11 @@ We are seeking candidates with a background in computational physics, biology, o
 
 To apply, please send your CV and a brief research statement to my email address show in ***about*** section. Informal inquiries via email are welcome!
 
-**Application deadline**: October 5th, 2025
+**Application deadline**: October 5th, 2025\
 **Start date**: December 2025-March 2026
+
+<u>Additional information</u>:
+<ul>
+    <li>Monthly gross salary depends on the candidate's prior postdoctoral experience and starts from 4300 euros (approx. 2.4 times the minimum wage in France)</li>
+    <li>Lyon is a charming city with a strong cultural and gastronomic heritage. Two 2 hours away from the Alps, and the Mediterranean coast. An international airport and the train station make it easy to travel within France and abroad.</li>
+</ul>
