@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We are hiring! Three-year PostDoc opportunity in Lyon :loudspeaker:
+title: We are hiring! Three-year PostDoc opportunity in Lyon
 date: 2025-09-09 16:11:00-0400
 inline: false
 related_posts: false
@@ -27,6 +27,6 @@ To apply, please send your CV and a brief research statement to my email address
 
 <u>Additional information</u>:
 <ul>
-    <li>Monthly gross salary depends on the candidate's prior postdoctoral experience and starts from 4300 euros (approx. 2.4 times the minimum wage in France)</li>
+    <li>Monthly gross salary depends on the candidate's prior postdoctoral experience and starts from 4300 euros</li>
     <li>Lyon is a charming city with a strong cultural and gastronomic heritage. Two 2 hours away from the Alps, and the Mediterranean coast. An international airport and the train station make it easy to travel within France and abroad.</li>
 </ul>
