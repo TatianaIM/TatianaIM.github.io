@@ -401,15 +401,15 @@ ninja.data = [{
             },},{id: "news-i-am-happy-to-share-that-i-am-starting-a-new-chapter-in-my-scientific-journey-as-a-cnrs-researcher-based-in-the-physics-lab-at-ens-lyon-rocket",
           title: 'I am happy to share that I am starting a new chapter in...',
           description: "",
-          section: "News",},{id: "news-i-am-honored-to-receive-a-starting-grant-jcjc-from-anr-to-develop-a-coarse-grained-model-that-will-advance-our-understanding-of-the-formation-and-properties-of-biomolecular-condensates-sparkles",
-          title: 'I am honored to receive a starting grant (JCJC) from ANR to develop...',
-          description: "",
-          section: "News",},{id: "news-we-are-hiring-three-year-postdoc-opportunity-in-lyon",
-          title: 'We are hiring! Three-year PostDoc opportunity in Lyon',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-am-honored-to-receive-a-starting-grant-jcjc-from-anr-to-develop-a-coarse-grained-model-that-will-advance-our-understanding-of-the-formation-and-properties-of-biomolecular-condensates-sparkles",
+          title: 'I am honored to receive a starting grant (JCJC) from ANR to develop...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
