@@ -1,33 +1,23 @@
 ---
 layout: post
 title: We are hiring! Three-year PostDoc opportunity in Lyon
-date: 2025-08-25 16:11:00-0400
+date: 2025-09-12 16:11:00-0400
 inline: false
 related_posts: false
 ---
-
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+A three-year postdoctoral position is open in my team at the Physics Lab at ENS Lyon. The position is funded by the ANR 2025 call via the JCJC grant (DiPCaM).
 
 ---
+The project is focused on disentangling the role of protein composition and architecture on the underlying phase behaviour. We aim to develop a temperature-sensitive coarse-grained model for proteins. Then we will look at how physico-chemical properties of the sequence affect phase separation propensity through large-scale molecular dynamics simulations. We will pay particular attention to two protein families implicated in neurodegenerative diseases. The successful candidate will join the interdisciplinary environment at the <a href=https://www.cbp.ens-lyon.fr/doku.php?id=accueil>CBPsmn</a> computational hub, working under my supervision and collaborating with colleagues from Physics and Biology at ENS Lyon.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
+We are seeking candidates with a background in computational physics, biology, or chemistry:
 #### Hipster list
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Experience in particle-based simulations (essential)</li>
+    <li>Experience in using software packages, e.g., GROMACS, LAMMPS, HOOMD-Blue, and cluster facilities (preferable)</li>
+    <li>Ability to work in a team (essential)</li>
+    <li>Background in soft matter/polymer physics (preferable)</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
 ---
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
