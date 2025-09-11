@@ -409,9 +409,9 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "Phase Behaviour of Disordered Proteins and Polypeptides",
+            },},{id: "projects-phase-behaviour-of-disordered-proteins-and-polypeptides",
+          title: 'Phase Behaviour of Disordered Proteins and Polypeptides',
+          description: "What causes certain proteins to form condensates, and how does this process happen?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
