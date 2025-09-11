@@ -2,7 +2,7 @@
 layout: page
 title: Disordered Proteins and Polypeptides
 description: Why and how certain proteins phase separate? 
-img: assets/img/ELPs.jpeg
+img: assets/img/IDPs.jpeg
 importance: 1
 category: work
 related_publications: true
