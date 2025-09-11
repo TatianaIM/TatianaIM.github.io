@@ -411,7 +411,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-disordered-proteins-and-polypeptides",
           title: 'Disordered Proteins and Polypeptides',
-          description: "Why and how certain proteins phase separate?",
+          description: "Why and How Certain Proteins Phase Separate?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
