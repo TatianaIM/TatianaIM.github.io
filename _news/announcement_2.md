@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We are hiring! Three-year PostDoc opportunity in Lyon
+title: We are hiring! Three-year PostDoc opportunity in Lyon.
 date: 2025-09-09 16:11:00-0400
 inline: false
 related_posts: false
