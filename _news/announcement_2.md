@@ -28,6 +28,6 @@ Informal inquiries are welcome!
 
 <u>Additional information</u>:
 <ul>
-    <li>Monthly gross salary depends on the candidate's prior postdoctoral experience and starts from 4300 euros</li>
+    <li>Monthly gross salary depends on the candidate's prior postdoctoral experience and starts from 4300 euros.</li>
     <li>Lyon is a charming city with a strong cultural and gastronomic heritage. Two 2 hours away from the Alps, and the Mediterranean coast. An international airport and the train station make it easy to travel within France and abroad.</li>
 </ul>
