@@ -405,13 +405,13 @@ ninja.data = [{
           title: 'I am honored to receive a starting grant (JCJC) from ANR to develop...',
           description: "",
           section: "News",},{id: "news-we-are-hiring-three-year-postdoc-opportunity-in-lyon",
-          title: 'We are hiring! Three-year PostDoc opportunity in Lyon',
+          title: 'We are hiring! Three-year PostDoc opportunity in Lyon.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
-          description: "with background image",
+          description: "Phase Behaviour of Disordered Proteins and Polypeptides",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
