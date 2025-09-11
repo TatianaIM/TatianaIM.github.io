@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Phase Behaviour of Disordered Proteins and Polypeptides
+title: Disordered Proteins and Polypeptides
 description: What causes certain proteins to form condensates, and how does this process happen? 
-img: assets/img/ELPs.jpeg
+img: assets/img/IDPs.jpeg
 importance: 1
 category: work
 related_publications: true
