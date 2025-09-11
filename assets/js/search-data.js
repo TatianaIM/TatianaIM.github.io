@@ -411,7 +411,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-disordered-proteins-and-polypeptides",
           title: 'Disordered Proteins and Polypeptides',
-          description: "What causes certain proteins to form condensates, and how does this process happen?",
+          description: "Why and how certain proteins phase separate?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
