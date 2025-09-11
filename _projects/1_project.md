@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Phase Behaviour of Disordered Proteins and Polypeptides
+title: Phase Behaviour of Disordered Proteins and Polypeptides
+description: What causes certain proteins to form condensates, and how does this process happen? 
 img: assets/img/ELPs.jpeg
 importance: 1
 category: work
@@ -44,7 +44,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+You can also put regular text between your rows of images, even citations {% cite morozova2024sequence %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
