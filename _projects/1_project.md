@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Disordered Proteins and Polypeptides
-description: What causes certain proteins to form condensates, and how does this process happen? 
-img: assets/img/IDPs.jpeg
+description: Why and how certain proteins phase separate? 
+img: assets/img/ELPs.jpeg
 importance: 1
 category: work
 related_publications: true
