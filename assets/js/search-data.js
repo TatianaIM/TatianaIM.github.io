@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-design-of-structural-polymer-colloids",
-          title: 'Design of Structural Polymer Colloids',
+            },},{id: "projects-design-of-polymer-colloids",
+          title: 'Design of Polymer Colloids',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
