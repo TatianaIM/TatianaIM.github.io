@@ -408,7 +408,7 @@ ninja.data = [{
           title: 'We are hiring! Three-year PostDoc opportunity in Lyon.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "projects-disordered-proteins-and-polypeptides",
           title: 'Disordered Proteins and Polypeptides',
           description: "Why and How Certain Proteins Phase Separate?",
