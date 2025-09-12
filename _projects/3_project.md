@@ -5,6 +5,7 @@ title: Design of Polymer Colloids
 img: assets/img/FNP.jpg
 importance: 3
 category: work
+related_publications: true
 ---
 
 
