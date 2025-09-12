@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Disordered Proteins and Polypeptides
-description: Why and How Certain Proteins Phase Separate? 
+# description: Why and How Certain Proteins Phase Separate? 
 img: assets/img/IDPs.jpeg
 importance: 1
 category: work
 related_publications: true
 ---
-<div style="text-align: justify">Proteins are vital biomacromolecules that play a crucial role in cellular functions. They are represented by linear polymers and built from twenty distinct amino acids defining their sequence. It was believed that a well-defined three-dimensional structure of a protein is required for its functioning, the so-called _structure-function_ paradigm. This viewpoint was held until nearly twenty years ago when numerous proteins that lacked intrinsic folded structure under physiological conditions yet remained functional were recognized. These proteins are either intrinsically disordered (<b>IDP</b>) or contain intrinsically disordered regions (<b>IDRs</b>). IDPs and IDRs are characterized by an ensemble of conformations akin to ordinary _polymers_ and are seen as prime candidates to drive phase transitions in living matter. In particular, the organization of the cellular environment into compartments that lack surrounding membranes, i.e., biomolecular condensates (<b>BC</b>) often involves IDPs and IDRs together with nucleic acids. Such spatiotemporal localization of biomacromolecules can facilitate chemical reactions and assembly processes and protect them from harmful environments. Conversely, the alternation in the formation-dissolution cycle of BCs is linked to pathological aggregations such as cancer, infectious and neurodegenerative diseases.</div>
+<div style="text-align: justify"> <i> Proteins are vital biomacromolecules that play a crucial role in cellular functions. They are represented by linear polymers and built from twenty distinct amino acids defining their sequence. It was believed that a well-defined three-dimensional structure of a protein is required for its functioning, the so-called _structure-function_ paradigm. This viewpoint was held until nearly twenty years ago when numerous proteins that lacked intrinsic folded structure under physiological conditions yet remained functional were recognized. These proteins are either intrinsically disordered (<b>IDP</b>) or contain intrinsically disordered regions (<b>IDRs</b>). IDPs and IDRs are characterized by an ensemble of conformations akin to ordinary _polymers_ and are seen as prime candidates to drive phase transitions in living matter. In particular, the organization of the cellular environment into compartments that lack surrounding membranes, i.e., biomolecular condensates (<b>BC</b>) often involves IDPs and IDRs together with nucleic acids. Such spatiotemporal localization of biomacromolecules can facilitate chemical reactions and assembly processes and protect them from harmful environments. Conversely, the alternation in the formation-dissolution cycle of BCs is linked to pathological aggregations such as cancer, infectious and neurodegenerative diseases. </i> </div>
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
