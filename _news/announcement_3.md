@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to receive a starting grant (JCJC) from ANR to develop a coarse-grained model that will advance our understanding of the formation and properties of biomolecular condensates! :sparkles:
+I am honored to receive a **starting grant** (JCJC) from ANR to develop a coarse-grained model that will advance our understanding of the formation and properties of **biomolecular condensates**! :sparkles:
