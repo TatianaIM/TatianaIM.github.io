@@ -20,7 +20,7 @@ We invite applications from candidates with backgrounds in computational physics
     <li>Background in soft matter or polymer physics (preferable)</li>
 </ul>
 
-**To apply**, please email your CV and a brief research statement to <a href=mailto:"tatiana.morozova@ens-lyon.fr"> my address</a>.
+**To apply**, please email your CV and a brief research statement to my address: tatiana.morozova@ens-lyon.fr.
 Informal inquiries are welcome!
 
 **Application deadline**: October 15th, 2025\
