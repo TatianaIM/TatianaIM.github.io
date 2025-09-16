@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-A **three-year postdoctoral position** is open in my team at the Physics Lab at ENS Lyon. The position is funded by the <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/">ANR 2025 call</a> via the JCJC grant (DiPCaM).
+A **three-year postdoctoral position** is open in my team at the <a href='https://www.ens-lyon.fr/PHYSIQUE'>Physics Lab</a> at ENS Lyon. The position is funded by the <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/">ANR 2025 call</a> via the JCJC grant (DiPCaM).
 
 ---
 
@@ -20,10 +20,10 @@ We invite applications from candidates with backgrounds in computational physics
     <li>Background in soft matter or polymer physics (preferable)</li>
 </ul>
 
-**To apply**, please email your CV and a brief research statement to my address: tatiana.morozova@ens-lyon.fr.
+**To apply**, please email your CV and a brief research statement to my address: tatiana.morozova@ens-lyon.fr.\
 Informal inquiries are welcome!
 
-**Application deadline**: October 15th, 2025\
+**Application deadline**: October 10th, 2025\
 **Start date**: December 2025-March 2026
 
 <u>Additional information</u>:
