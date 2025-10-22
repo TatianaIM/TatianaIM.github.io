@@ -404,8 +404,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-honored-to-receive-a-starting-grant-jcjc-from-anr-to-develop-a-coarse-grained-model-that-will-advance-our-understanding-of-the-formation-and-properties-of-biomolecular-condensates-sparkles",
           title: 'I am honored to receive a starting grant (JCJC) from ANR to develop...',
           description: "",
-          section: "News",},{id: "news-we-are-hiring-three-year-postdoc-opportunity-in-lyon",
-          title: 'We are hiring! Three-year PostDoc opportunity in Lyon.',
+          section: "News",},{id: "news-we-are-hiring-three-year-postdoc-opportunity-in-lyon-filled",
+          title: 'We are hiring! Three-year PostDoc opportunity in Lyon (filled).',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
