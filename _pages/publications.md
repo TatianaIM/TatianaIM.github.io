@@ -14,10 +14,13 @@ nav_order: 3
 
 <div class="publications">
 
-  <h2>Published articles</h2>
-  {% bibliography --query @*[status='published'] %}
+<h2>All publications</h2>
+{% bibliography %}
 
-  <h2>Preprints</h2>
-  {% bibliography --query @*[status='preprint'] %}
+<h2>preprints</h2>
+{% bibliography --query @*[status='preprint'] %}
+
+<h2>published articles</h2>
+{% bibliography --query @*[status='published'] %}
 
 </div>
