@@ -415,8 +415,11 @@ ninja.data = [{
           title: 'We are hiring! Three-year PostDoc opportunity in Lyon (filled).',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "projects-disordered-proteins-and-polypeptides",
+              window.location.href = "/news/old_announcement_1/";
+            },},{id: "news-fran-bačić-toplek-joined-the-team-as-a-postdoctoral-researcher-welcome-fran",
+          title: 'Fran Bačić Toplek joined the team as a postdoctoral researcher. Welcome, Fran!',
+          description: "",
+          section: "News",},{id: "projects-disordered-proteins-and-polypeptides",
           title: 'Disordered Proteins and Polypeptides',
           description: "",
           section: "Projects",handler: () => {
