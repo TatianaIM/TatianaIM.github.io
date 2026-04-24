@@ -411,12 +411,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-honored-to-receive-a-starting-grant-jcjc-from-anr-to-develop-a-coarse-grained-model-that-will-advance-our-understanding-of-the-formation-and-properties-of-biomolecular-condensates-sparkles",
           title: 'I am honored to receive a starting grant (JCJC) from ANR to develop...',
           description: "",
-          section: "News",},{id: "news-we-are-hiring-three-year-postdoc-opportunity-in-lyon-filled",
-          title: 'We are hiring! Three-year PostDoc opportunity in Lyon (filled).',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/old_announcement_1/";
-            },},{id: "news-fran-bačić-toplek-joined-the-team-as-a-postdoctoral-researcher-welcome-fran",
+          section: "News",},{id: "news-fran-bačić-toplek-joined-the-team-as-a-postdoctoral-researcher-welcome-fran",
           title: 'Fran Bačić Toplek joined the team as a postdoctoral researcher. Welcome, Fran!',
           description: "",
           section: "News",},{id: "projects-disordered-proteins-and-polypeptides",
