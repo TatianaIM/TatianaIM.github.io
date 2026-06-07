@@ -8,15 +8,9 @@ nav_order: 4
 
 ## current
 
-<img src="/assets/img/photo_fran_toplek.jpeg"
+<img src="/assets/img/photo_fran_toplek.jpeg" alt="Fran Bačić Toplek" width="150" style="float:left; margin-right:20px; border-radius:50%;">
 
-     alt="Fran Bačić Toplek"
-
-     width="150"
-
-     style="float:left; margin-right:20px; border-radius:50%;">
-
-**Fran Bačić Toplek**  
+**Fran Bačić Toplek**
 
 Postdoctoral researcher (2026-)
 
