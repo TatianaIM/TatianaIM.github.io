@@ -8,7 +8,7 @@ nav_order: 4
 
 ## current
 
-<img src="/assets/img/photo_fran_toplek.jpeg" alt="Fran Bačić Toplek" width="150" style="float:left; margin-right:20px; border-radius:50%;">
+<img src="/assets/img/photo_fran_toplek.jpeg" alt="Fran Bačić Toplek" width="225" style="float:left; margin-right:20px; border-radius:50%;">
 
 **Fran Bačić Toplek**
 
