@@ -10,3 +10,5 @@ nav_order: 4
 
 - Fran B. Toplek (Postdoc, 2026-)  
   fran.bacic_toplek@ens-lyon.fr
+
+![Fran B. Toplek](/assets/img/photo_fran_toplek.jpeg)
