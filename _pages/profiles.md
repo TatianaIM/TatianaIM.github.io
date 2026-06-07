@@ -8,7 +8,7 @@ nav_order: 4
 
 ## current
 
-<img src="/assets/img/phot_fran_toplek.jpeg"
+<img src="/assets/img/photo_fran_toplek.jpeg"
 
      alt="Fran Bačić Toplek"
 
